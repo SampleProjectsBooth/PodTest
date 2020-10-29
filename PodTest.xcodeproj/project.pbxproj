@@ -103,26 +103,26 @@
 			isa = PBXGroup;
 			children = (
 				3BDCE75B254A71E20060D1E3 /* common */,
-				3BDCE752254A71AB0060D1E3 /* Video */,
-				3BDCE751254A71960060D1E3 /* Photo */,
+				3BDCE752254A71AB0060D1E3 /* Photo */,
+				3BDCE751254A71960060D1E3 /* Video */,
 			);
 			path = class;
 			sourceTree = "<group>";
 		};
-		3BDCE751254A71960060D1E3 /* Photo */ = {
+		3BDCE751254A71960060D1E3 /* Video */ = {
 			isa = PBXGroup;
 			children = (
 				3BDCE753254A71B50060D1E3 /* Controller */,
 			);
-			path = Photo;
+			path = Video;
 			sourceTree = "<group>";
 		};
-		3BDCE752254A71AB0060D1E3 /* Video */ = {
+		3BDCE752254A71AB0060D1E3 /* Photo */ = {
 			isa = PBXGroup;
 			children = (
 				3BDCE754254A71BE0060D1E3 /* Controller */,
 			);
-			path = Video;
+			path = Photo;
 			sourceTree = "<group>";
 		};
 		3BDCE753254A71B50060D1E3 /* Controller */ = {
